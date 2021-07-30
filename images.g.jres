@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAA8AAAAAAADwAAAAAAAAAA8AAAAAAADwAAAAAAAAAAAPAAAAAAAAAPAAAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAPAAAAAAAA8AAAAAAAAAAPAAAAAAAA8AAAAAAAAAAADwAAAAAAAADwAAAAAAAAAAAPAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "teki"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
